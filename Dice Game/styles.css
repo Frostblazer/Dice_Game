@@ -1,0 +1,31 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Anton', sans-serif;
+  font-size: 8rem;
+  color: red;
+}
+
+p {
+  font-size: 2rem;
+  color: red;
+  font-family: 'Anton', sans-serif;
+}
+
+img {
+  width: 80%;
+}
